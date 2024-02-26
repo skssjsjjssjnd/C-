@@ -1,0 +1,21 @@
+
+VScode（英语：VS:
+  extensions:
+    - webfreak.debug
+    - danielpinto8zz6.c-cpp-project-generator
+    - muhammad-sammy.csharp
+    - redhat.java
+    - ms-dotnettools.vscode-dotnet-runtime
+    - jbenden.c-cpp-flylint
+    - franneck94.vscode-c-cpp-config
+    - EdwinKofler.vscode-hyperupcall-pack-java
+    - vadimcn.vscode-lldb
+    - eamodio.gitlens
+    - gattytto.go
+    - ms-python.python
+    - EricSia.pythonsnippets3
+    - kyntrack.python-test
+    - franneck94.c-cpp-runner
+    - llvm-vs-code-extensions.vscode-clangd
+    - franneck94.vscode-c-cpp-dev-extension-pack
+
